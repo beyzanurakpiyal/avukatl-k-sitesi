@@ -1,1 +1,1 @@
-# avukatl-k-sitesi
+# avukatlık-sitesi
